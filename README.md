@@ -1,3 +1,3 @@
-# adam goldfarb, phd candidate in sociology
-I use comparative historical, sociolinguistic, and social network analysis methods to study elite corruption
+# phd candidate in sociology at NC State
+I use comparative historical sociology, sociolinguistics, and social network analysis to study elite corruption
 
