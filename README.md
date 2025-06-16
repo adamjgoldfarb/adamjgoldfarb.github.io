@@ -1,3 +1,7 @@
 # phd candidate in sociology at NC State
-I use comparative historical sociology, sociolinguistics, and social network analysis to study elite corruption
 
+[home](adamjgoldfarb.github.io) [research]() [teaching]() [cv]()
+
+i use comparative historical sociology, sociolinguistics, and social network analysis to study elite corruption
+
+email: ajgoldfa@ncsu.edu
