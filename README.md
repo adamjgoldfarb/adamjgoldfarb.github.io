@@ -2,7 +2,7 @@
 
 <img src="images/b&w.jpg"/>
 
-[home](adamjgoldfarb.github.io) [research]() [teaching]() [cv](goldfarbCV.pdf)
+[home](adamjgoldfarb.github.io) [research](adamjgoldfarv.github.io/research) [teaching](adamjgoldfarv.github.io/teaching) [cv](goldfarbCV.pdf)
 
 substances: white-collar crime, corruption, elites, economic, cultural and political sociology, charisma, organizations, institutions, theory 
 
