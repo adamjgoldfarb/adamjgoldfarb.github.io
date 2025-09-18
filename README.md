@@ -1,6 +1,6 @@
 # phd candidate and instructor in sociology at NC State
 
-<img src="images/b&w.jpg"/>
+<img src="images/color.jpg"/>
 
 [home](adamjgoldfarb.github.io) [research](/research.html) [teaching](/teaching.html) [cv](goldfarbCV.docx(1).pdf)
 
