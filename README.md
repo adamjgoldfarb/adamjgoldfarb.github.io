@@ -1,9 +1,9 @@
-# phd candidate in sociology at NC State
+# phd candidate and instructor in sociology at NC State
 
 [home](adamjgoldfarb.github.io) [research]() [teaching]() [cv](goldfarbCV.pdf)
 
-substance: White-Collar Crime, Corruption, Elites, Economic, Cultural and Political Sociology, Charisma, Organizations, Institutions, Theory 
+substances: white-collar crime, corruption, elites, economic, cultural and political sociology, charisma, organizations, institutions, theory 
 
-methods: Computational Methods, Comparative Historical Sociology, Social Network Analysis, Text Analysis
+methods: computational methods, comparative historical sociology, social network analysis, text analysis
 
 email: ajgoldfa@ncsu.edu
